@@ -89,3 +89,4 @@ while f_i != "q":
         print("Draw")
     else:
         print("You lose:( ")
+    f_i = input("Enter q to quit or s to play again: ").lower()
